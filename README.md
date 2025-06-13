@@ -13,4 +13,4 @@ https://github.com/ro-escobar/Gonzalo-Gonzalez-A.github.io
 https://github.com/ro-escobar/ainolopaa.github.io
 
 
-en carpeta commits dejé capturas con los commits en forks de repos de compañer@s
+en carpeta assets/commits dejé capturas con los commits en forks de repos de compañer@s
